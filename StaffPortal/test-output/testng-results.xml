@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="29" passed="29">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="666810" started-at="2020-06-26T15:59:31 IST" finished-at="2020-06-26T16:10:37 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="666810" started-at="2020-06-26T15:59:31 IST" finished-at="2020-06-26T16:10:37 IST">
+      <class name="src.StaffPortal.ScheduleTest">
+        <test-method status="PASS" signature="launchBrowser()[pri:1, instance:src.StaffPortal.ScheduleTest@67b92f0a]" name="launchBrowser" duration-ms="23326" started-at="2020-06-26T15:59:31 IST" finished-at="2020-06-26T15:59:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="signUp()[pri:2, instance:src.StaffPortal.ScheduleTest@67b92f0a]" name="signUp" duration-ms="26299" started-at="2020-06-26T15:59:54 IST" finished-at="2020-06-26T16:00:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signUp -->
+        <test-method status="PASS" signature="phoneNo()[pri:3, instance:src.StaffPortal.ScheduleTest@67b92f0a]" name="phoneNo" duration-ms="25424" started-at="2020-06-26T16:00:20 IST" finished-at="2020-06-26T16:00:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- phoneNo -->
+        <test-method status="PASS" signature="forgotPassword()[pri:4, instance:src.StaffPortal.ScheduleTest@67b92f0a]" name="forgotPassword" duration-ms="10602" started-at="2020-06-26T16:00:46 IST" finished-at="2020-06-26T16:00:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- forgotPassword -->
+        <test-method status="PASS" signature="prePopulatedmail()[pri:5, instance:src.StaffPortal.ScheduleTest@67b92f0a]" name="prePopulatedmail" duration-ms="5483" started-at="2020-06-26T16:00:56 IST" finished-at="2020-06-26T16:01:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prePopulatedmail -->
+        <test-method status="PASS" signature="closePopup()[pri:6, instance:src.StaffPortal.ScheduleTest@67b92f0a]" name="closePopup" duration-ms="5281" started-at="2020-06-26T16:01:02 IST" finished-at="2020-06-26T16:01:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closePopup -->
+        <test-method status="PASS" signature="resetPassword()[pri:7, instance:src.StaffPortal.ScheduleTest@67b92f0a]" name="resetPassword" duration-ms="18165" started-at="2020-06-26T16:01:07 IST" finished-at="2020-06-26T16:01:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resetPassword -->
+        <test-method status="PASS" signature="login()[pri:8, instance:src.StaffPortal.ScheduleTest@67b92f0a]" name="login" duration-ms="9279" started-at="2020-06-26T16:01:25 IST" finished-at="2020-06-26T16:01:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="loginEmail()[pri:9, instance:src.StaffPortal.ScheduleTest@67b92f0a]" name="loginEmail" duration-ms="12559" started-at="2020-06-26T16:01:35 IST" finished-at="2020-06-26T16:01:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginEmail -->
+        <test-method status="PASS" signature="invalidEmail()[pri:10, instance:src.StaffPortal.ScheduleTest@67b92f0a]" name="invalidEmail" duration-ms="12496" started-at="2020-06-26T16:01:47 IST" finished-at="2020-06-26T16:02:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidEmail -->
+        <test-method status="PASS" signature="invalidSignin()[pri:11, instance:src.StaffPortal.ScheduleTest@67b92f0a]" name="invalidSignin" duration-ms="20627" started-at="2020-06-26T16:02:00 IST" finished-at="2020-06-26T16:02:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidSignin -->
+        <test-method status="PASS" signature="signIn()[pri:12, instance:src.StaffPortal.ScheduleTest@67b92f0a]" name="signIn" duration-ms="19681" started-at="2020-06-26T16:02:20 IST" finished-at="2020-06-26T16:02:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signIn -->
+        <test-method status="PASS" signature="switchOption()[pri:13, instance:src.StaffPortal.ScheduleTest@67b92f0a]" name="switchOption" duration-ms="16174" started-at="2020-06-26T16:02:40 IST" finished-at="2020-06-26T16:02:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- switchOption -->
+        <test-method status="PASS" signature="announcement()[pri:14, instance:src.StaffPortal.ScheduleTest@67b92f0a]" name="announcement" duration-ms="287874" started-at="2020-06-26T16:02:56 IST" finished-at="2020-06-26T16:07:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- announcement -->
+        <test-method status="PASS" signature="resources()[pri:15, instance:src.StaffPortal.ScheduleTest@67b92f0a]" name="resources" duration-ms="21940" started-at="2020-06-26T16:07:44 IST" finished-at="2020-06-26T16:08:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resources -->
+        <test-method status="PASS" signature="upCommingAppointment()[pri:16, instance:src.StaffPortal.ScheduleTest@67b92f0a]" name="upCommingAppointment" duration-ms="5021" started-at="2020-06-26T16:08:06 IST" finished-at="2020-06-26T16:08:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- upCommingAppointment -->
+        <test-method status="PASS" signature="allAppointments()[pri:17, instance:src.StaffPortal.ScheduleTest@67b92f0a]" name="allAppointments" duration-ms="16989" started-at="2020-06-26T16:08:11 IST" finished-at="2020-06-26T16:08:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- allAppointments -->
+        <test-method status="PASS" signature="statusCheck()[pri:18, instance:src.StaffPortal.ScheduleTest@67b92f0a]" name="statusCheck" duration-ms="15344" started-at="2020-06-26T16:08:28 IST" finished-at="2020-06-26T16:08:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- statusCheck -->
+        <test-method status="PASS" signature="unCheckStatus()[pri:19, instance:src.StaffPortal.ScheduleTest@67b92f0a]" name="unCheckStatus" duration-ms="10321" started-at="2020-06-26T16:08:43 IST" finished-at="2020-06-26T16:08:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- unCheckStatus -->
+        <test-method status="PASS" signature="selected()[pri:20, instance:src.StaffPortal.ScheduleTest@67b92f0a]" name="selected" duration-ms="10350" started-at="2020-06-26T16:08:54 IST" finished-at="2020-06-26T16:09:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selected -->
+        <test-method status="PASS" signature="deSelected()[pri:21, instance:src.StaffPortal.ScheduleTest@67b92f0a]" name="deSelected" duration-ms="10312" started-at="2020-06-26T16:09:04 IST" finished-at="2020-06-26T16:09:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deSelected -->
+        <test-method status="PASS" signature="allPatient()[pri:22, instance:src.StaffPortal.ScheduleTest@67b92f0a]" name="allPatient" duration-ms="18050" started-at="2020-06-26T16:09:14 IST" finished-at="2020-06-26T16:09:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- allPatient -->
+        <test-method status="PASS" signature="searchPatient()[pri:23, instance:src.StaffPortal.ScheduleTest@67b92f0a]" name="searchPatient" duration-ms="5479" started-at="2020-06-26T16:09:32 IST" finished-at="2020-06-26T16:09:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchPatient -->
+        <test-method status="PASS" signature="navigateAppointment()[pri:24, instance:src.StaffPortal.ScheduleTest@67b92f0a]" name="navigateAppointment" duration-ms="12741" started-at="2020-06-26T16:09:38 IST" finished-at="2020-06-26T16:09:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateAppointment -->
+        <test-method status="PASS" signature="upComingAppointment()[pri:25, instance:src.StaffPortal.ScheduleTest@67b92f0a]" name="upComingAppointment" duration-ms="5306" started-at="2020-06-26T16:09:51 IST" finished-at="2020-06-26T16:09:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- upComingAppointment -->
+        <test-method status="PASS" signature="pastAppointement()[pri:26, instance:src.StaffPortal.ScheduleTest@67b92f0a]" name="pastAppointement" duration-ms="5338" started-at="2020-06-26T16:09:56 IST" finished-at="2020-06-26T16:10:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pastAppointement -->
+        <test-method status="PASS" signature="NavigateBack()[pri:27, instance:src.StaffPortal.ScheduleTest@67b92f0a]" name="NavigateBack" duration-ms="8573" started-at="2020-06-26T16:10:01 IST" finished-at="2020-06-26T16:10:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavigateBack -->
+        <test-method status="PASS" signature="scheduleNavigation()[pri:28, instance:src.StaffPortal.ScheduleTest@67b92f0a]" name="scheduleNavigation" duration-ms="13273" started-at="2020-06-26T16:10:10 IST" finished-at="2020-06-26T16:10:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scheduleNavigation -->
+        <test-method status="PASS" signature="wednesdaySchedule()[pri:32, instance:src.StaffPortal.ScheduleTest@67b92f0a]" name="wednesdaySchedule" duration-ms="14281" started-at="2020-06-26T16:10:23 IST" finished-at="2020-06-26T16:10:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wednesdaySchedule -->
+      </class> <!-- src.StaffPortal.ScheduleTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
